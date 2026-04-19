@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# Data
+data/
+*.csv
+
+# Models
+outputs/
+*.pkl
+
+# Temp files
+temp.py
+
+# Environment
+venv/
+.env
