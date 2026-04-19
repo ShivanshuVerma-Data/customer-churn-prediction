@@ -4,14 +4,14 @@ End-to-end machine learning project to predict customer churn using classificati
 
 ---
 
-## Problem Statement
+# Problem Statement
 
 Customer churn is a major challenge for subscription-based businesses.  
 This project predicts whether a customer is likely to churn, enabling proactive retention strategies.
 
 ---
 
-## Approach
+# Approach
 
 - Data preprocessing and cleaning  
 - Feature engineering (behavior-based features)  
@@ -25,7 +25,7 @@ This project predicts whether a customer is likely to churn, enabling proactive 
 
 ---
 
-## Results
+# Results
 
 - F1 Score: ~0.62  
 - Accuracy: ~77%  
@@ -35,7 +35,7 @@ This project predicts whether a customer is likely to churn, enabling proactive 
 
 ---
 
-## Key Insights
+# Key Insights
 
 - Low tenure customers are more likely to churn  
 - Higher monthly charges increase churn risk  
@@ -44,7 +44,7 @@ This project predicts whether a customer is likely to churn, enabling proactive 
 
 ---
 
-## Features
+# Features
 
 - Modular ML pipeline (preprocessing → training → evaluation)  
 - Multiple model comparison  
@@ -54,7 +54,7 @@ This project predicts whether a customer is likely to churn, enabling proactive 
 
 ---
 
-## Project Structure
+# Project Structure
 
 ```
 Customer_churn/
@@ -68,7 +68,7 @@ Customer_churn/
 
 ---
 
-## Installation
+# Installation
 
 ```bash
 pip install -r requirements.txt
@@ -89,26 +89,27 @@ http://localhost:8501
 
 # The app allows you to:
 
+```
 Input customer details
 Predict churn probability
 View risk level
 See contributing features
 link : https://customer-churn-prediction-rnnmwgmy26qzsyzsgmtziu.streamlit.app/
-
+```
 ---
 
-## Screenshots 
+# Screenshots 
 
-# Inputs : 
+## Inputs : 
 
 <img width="805" height="743" alt="image" src="https://github.com/user-attachments/assets/5d575002-787f-4c32-ab0c-efeaf2588ec8" />
 
-# Outputs : 
+## Outputs : 
 
 <img width="560" height="496" alt="image" src="https://github.com/user-attachments/assets/34cfc9c0-4267-40ff-acb9-9fbf835ae08a" />
 
 
-## Tech Stack
+# Tech Stack
 
 Python
 Pandas, NumPy
@@ -127,5 +128,5 @@ Add real-time data support
 
 ---
 
-## Author
-Shivanshu Verma
+# Author
+##Shivanshu Verma
