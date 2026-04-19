@@ -111,22 +111,24 @@ link : https://customer-churn-prediction-rnnmwgmy26qzsyzsgmtziu.streamlit.app/
 
 
 # Tech Stack
-
+```
 Python
 Pandas, NumPy
 Scikit-learn
 XGBoost
 Matplotlib
 Streamlit
+```
 
 ---
 
 ## Future Improvements
+```
 Add SHAP for better explainability
 Deploy the app online
 Improve feature engineering
 Add real-time data support
-
+```
 ---
 
 # Author
