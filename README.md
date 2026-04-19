@@ -94,8 +94,9 @@ Input customer details
 Predict churn probability
 View risk level
 See contributing features
-link : https://customer-churn-prediction-rnnmwgmy26qzsyzsgmtziu.streamlit.app/
 ```
+link : https://customer-churn-prediction-rnnmwgmy26qzsyzsgmtziu.streamlit.app/
+
 ---
 
 # Screenshots 
